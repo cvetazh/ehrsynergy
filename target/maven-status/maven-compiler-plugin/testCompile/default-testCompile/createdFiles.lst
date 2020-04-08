@@ -1,0 +1,12 @@
+webpages\CreateNotePage.class
+webpages\DiagnosisListPage.class
+webpages\EncounterNotesPage.class
+webpages\PatientPage.class
+webpages\AllergyListPage.class
+webpages\CreatePatientPage.class
+webpages\ChartPage.class
+webpages\LogPage.class
+test\AppTest.class
+webpages\StartNewNotePage.class
+webpages\MedicationListPage.class
+webpages\GeneralList.class

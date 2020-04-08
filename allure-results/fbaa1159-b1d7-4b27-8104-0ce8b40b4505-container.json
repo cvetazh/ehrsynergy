@@ -1,0 +1,1 @@
+{"uuid":"fbaa1159-b1d7-4b27-8104-0ce8b40b4505","name":"test.AppTest","start":1580983931399,"stop":1580983950387,"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1580983931416,"stop":1580983944296}],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1580983949785,"stop":1580983950380}]}
